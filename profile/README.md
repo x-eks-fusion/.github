@@ -3,7 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Embedded+Kits+System;E+K+S)](https://git.io/typing-svg)
 
 组织为公益性质，非盈利。
+
 目标是设计一款好用、轻量级、易于移植的模块化开发嵌入式的c语言框架。
+
 能够做到一处开发，各种芯片上都能编译。
 
 # 组织仓库
